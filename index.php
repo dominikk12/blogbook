@@ -114,3 +114,4 @@
 
 
         ?>
+        <script src="js/responsiveTest.js" type="text/javascript"></script>
